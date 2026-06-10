@@ -1,4 +1,4 @@
-# � Task-15: Attach IAM Policy for DynamoDB Access Using Terraform
+# 🚀 Task-15: Attach IAM Policy for DynamoDB Access Using Terraform
 
 ## 📖 Overview
 
