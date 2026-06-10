@@ -1,6 +1,6 @@
 ### The Nautilus DevOps team is implementing a messaging system in AWS. They want to create an SNS topic and an SQS queue. The team needs to subscribe the SQS queue to the SNS topic so that any messages sent to the SNS topic will be delivered to the SQS queue.
 #
-Create an SNS topic named nautilus-sns-topic.
+Create an SNS topic named nautilus-sns-topic..
 
 Create an SQS queue named nautilus-sqs-queue.
 
