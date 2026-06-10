@@ -1,4 +1,4 @@
-# � Task-16: Send Notifications from IAM Events to SNS Using Terraform
+# 🚀 Task-16: Send Notifications from IAM Events to SNS Using Terraform
 
 ## 📖 Overview
 
