@@ -1,4 +1,4 @@
-# � Task-17: Access Secrets Manager with IAM Role Using Terraform
+# 🚀 Task-17: Access Secrets Manager with IAM Role Using Terraform
 
 ## 📖 Overview
 
